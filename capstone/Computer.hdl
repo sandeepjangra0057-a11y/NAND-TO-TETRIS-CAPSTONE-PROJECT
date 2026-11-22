@@ -1,6 +1,6 @@
 // Computer.hdl
 // Capstone - Nand to Tetris I
-// Sandeep Jangra Roll No 2501010319
+// Sandeep Jangra Roll No 2501010325
 //
 // ROM32K holds the program, CPU executes it, Memory is RAM + Screen + Keyboard.
 
